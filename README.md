@@ -12,6 +12,9 @@
 ## Classifier 
 - Support Vector Machine (SVM) with Multiclass support.
 
+## Dataset
+- The experiment is done using `Vehicle dataset` 
+
 
 ## Publication followed
 -   Xu, R., Li, M., Yang, Z. et al. Dynamic feature selection algorithm based on Q-learning mechanism. Appl Intell 51, 7233–7244 (2021). https://doi.org/10.1007/s10489-021-02257-x
