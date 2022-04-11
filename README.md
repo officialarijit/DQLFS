@@ -24,5 +24,5 @@
 ## 📝 License
 
 ---
-Copyright © 2020 [Arijit](https://github.com/officialarijit).
+Copyright © [Arijit](https://github.com/officialarijit).
 This project is MIT licensed.
