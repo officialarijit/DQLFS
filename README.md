@@ -4,7 +4,6 @@
 - `OS:` Ubuntu 16.04 64 bit
 - `RAM:` 24 GB 1600MHz
 - `Processor:` Intel i7-7600HQ - Quad core
-- Acer Laptop
 
 ## Software requirements
 - MATLAB 2019b-64 bit
